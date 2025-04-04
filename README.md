@@ -1,1 +1,1 @@
-git clone git@github.com:nobatech/Talebi.git
+git clone https://github.com/nobatech/Talebi.git
